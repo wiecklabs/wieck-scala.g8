@@ -1,7 +1,9 @@
 # Wieck Media Scala Project Template
 
-g8 https://bitbucket.org/wieckmedia/wieck-scala.g8.git
+Clone this repo then run g8 pointing to the file path of the repo.
+
+    g8 file://path/to/repo
 
 ## giter8 Installation
 
-brew install giter8
+    brew install giter8
