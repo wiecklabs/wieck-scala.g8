@@ -7,7 +7,7 @@ Clone this repo then run `g8` pointing to the file path of the repo.
 You now have a spiffy new Scala/SBT project.
 
     sbt
-		> test
+    > test
 
 ## Features
 
